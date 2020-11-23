@@ -1,0 +1,164 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+header{
+    padding: 39px 0px;
+    overflow: hidden;
+}
+section{
+    padding: 75px 0px;
+}
+.banner{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 137px 0px;
+}
+
+.banner h1{
+    color: white;
+    font-size: 100px;
+}
+.banner span{
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+    width: 85%;
+    margin: 0px auto;
+}
+.banner  p{
+    color: white;
+    font-size: 28px;
+    padding: 27px 0px;
+}
+.btn{
+    padding: 15px 0px;
+
+}
+.inner-btn{
+    padding: 15px 35px;
+    background: transparent;
+    border: 2px solid #15a4fa;
+}
+.inner-btn a{
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+.icon{
+    margin-top: 115px;
+
+}
+.icon i{
+    color: white;
+    font-size: 27px;
+}
+.simple{
+    text-align: center;
+    background-color: #F6F9F9;
+}
+.simple h2{
+    color: rgb(51, 48, 48);
+    font-size: 40px;
+}
+.simple p{
+    color: grey;
+    font-size: 23px;
+
+}
+.service{
+
+}
+.service h3{
+    color: #443f3f;
+    font-size: 27px;
+    text-align: center;
+    padding: 18px 0px;
+}
+.service p{
+    text-align: center;
+    color: grey;
+    padding: 25px 0px;
+}
+.i-sec{
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(90deg,#48BAFF 50%,#5FC3FF 50%);
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 30px;
+}
+.i-sec i{
+    color: #fff;
+  font-size: 50px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.form-sec{
+    background-image: url(../images/form.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.form-sec h2{
+    color: white;
+    font-size: 55px;
+    padding: 20px 0px;
+
+}
+.form-sec p{
+    color: rgb(238, 225, 225);
+    font-size: 20px;
+    padding: 20px 0px;
+}
+.form-ctrl{
+    margin-bottom: 11px;
+}
+.frm-sec{
+    background-color: transparent;
+    width: 70%;
+    background-color: transparent;
+    width: 87%;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 15px;
+}
+.white2{
+    color: white;
+}
+.button-ic{
+    padding: 8px 32px;
+    background-color: transparent;
+    color: blanchedalmond;
+    border: 1px solid cyan;
+    margin-top: 10px;
+
+}
+footer {
+    padding: 35px 0;
+  }
+  
+  .fleft {
+    text-align: left;
+  }
+  
+  .fright {
+    text-align: right;
+  }
+  
+  .fa-facebook,
+  .fa-twitter,
+  .fa-google-plus,
+  .fa-linkedin {
+    font-size: 20px;
+    background: #15a4fa;
+    color: #fff;
+    padding: 10px;
+    margin-right: 5px;
+  }
+  
+  .fa-linkedin {
+    margin-right: 0;
+  }
